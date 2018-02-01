@@ -1,4 +1,6 @@
-# xtimeseries
+===========
+xtimeseries
+===========
 
 Use the following to create a Python environment called `py2`::
 
